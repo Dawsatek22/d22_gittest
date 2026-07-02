@@ -13,7 +13,7 @@ return pos;
 int main() {
 
 
-int pos1 = 90;
+int pos1 = 110;
 std::cout <<"the angle position is:" <<  pos(7.5,-4.5) << '\n';
 return 0;
 
